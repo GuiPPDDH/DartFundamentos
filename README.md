@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+https://dart.dev/assets/img/logo/dart-logo-for-shares.png
